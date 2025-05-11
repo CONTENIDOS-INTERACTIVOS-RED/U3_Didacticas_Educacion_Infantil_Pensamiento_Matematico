@@ -3,16 +3,18 @@
   BannerInterno(subTitulo="Introducción")
   .container.tarjeta.tarjeta--blanca.px-4.px-md-5.pt-4.pt-md-5
 
-    .row.mb-4
-      .col-lg-8
-        .bg-color-1.px-4.py-5(data-aos="fade-left").mb-4
-          p.mb-0 El pensamiento matemático es una de las bases esenciales para el desarrollo cognitivo en la primera infancia. Desde los primeros años de vida, los niños y niñas exploran su entorno a través de relaciones espaciales, patrones, conteo y estimaciones, construyendo así sus primeros conocimientos matemáticos. En esta unidad, se descubrirá cómo diseñar estrategias didácticas innovadoras que permitan fomentar estas habilidades de manera lúdica y significativa.
-        
-        p(data-aos="fade-left") El aprendizaje matemático en la infancia no se trata solo de números y cálculos, sino de la capacidad para resolver problemas, tomar decisiones y comprender el mundo que nos rodea. Con un enfoque activo y participativo, esta unidad invita a reflexionar sobre cómo enseñar matemáticas de manera creativa, aprovechando el juego, la exploración y la interacción como principales herramientas de enseñanza.
-      .col-lg-4.d-none.d-sm-block
+    .row.align-items-stretch.mb-5
+      .col-lg-4
+        .tarjeta.bg-color-1.p-4(data-aos="fade-left").h-100
+          p.mb-0 El proceso de enseñanza-aprendizaje en la educación inicial requiere estrategias didácticas que favorezcan el desarrollo integral de los niños y niñas. En este sentido, la selección de herramientas adecuadas desempeña un papel fundamental en la estimulación de los diferentes estilos de aprendizaje, permitiendo que cada estudiante construya el conocimiento de manera significativa. Esta unidad aborda la importancia de las herramientas didácticas en la enseñanza matemática y su adaptación a los diversos contextos educativos.
+
+      .col-lg-4
         figure
-          img(src="@/assets/curso/intro/1.png", data-aos="zoom-in", style="max-width: 400px;").my-4.my-lg-0.mx-auto
-    
+          img(src="@/assets/curso/intro/1.png", alt="").mb-4.mb-lg-0
+
+      .col-lg-4
+        .tarjeta.bg-color-8.p-4(data-aos="fade-left").h-100
+          p.mb-0 El propósito central de esta unidad es proporcionar los criterios necesarios para seleccionar herramientas didácticas efectivas, considerando su aplicabilidad en entornos presenciales, virtuales y a distancia. Al finalizar la unidad, se espera que los estudiantes sean capaces de identificar y emplear recursos adecuados para potenciar el aprendizaje de conceptos matemáticos en la educación inicial, respetando las necesidades individuales y promoviendo un enfoque inclusivo.
 
     .bg-full-width.bg-color-2
       .px-4.px-md-5.py-4
@@ -20,7 +22,7 @@
           .col-lg-auto
             img(src="@/assets/curso/intro/2.svg", style="max-width: 90px").mx-auto.mb-4.mb-lg-0
           .col-lg
-            p.mb-0 El aprendizaje matemático en la infancia no se trata solo de números y cálculos, sino de la capacidad para resolver problemas, tomar decisiones y comprender el mundo que nos rodea. Con un enfoque activo y participativo, esta unidad invita a reflexionar sobre cómo enseñar matemáticas de manera creativa, aprovechando el juego, la exploración y la interacción como principales herramientas de enseñanza.
+            p.mb-0 La relevancia del tema radica en que el uso de herramientas adecuadas no solo facilita la enseñanza de las matemáticas, sino que también mejora la motivación y el interés de los niños y niñas, favoreciendo la comprensión de conceptos abstractos a través de experiencias concretas y dinámicas. En el contexto de la educación infantil, donde el aprendizaje es esencialmente exploratorio, resulta imprescindible implementar estrategias que fomenten la manipulación, la experimentación y la resolución de problemas de manera lúdica.
     
 
 </template>

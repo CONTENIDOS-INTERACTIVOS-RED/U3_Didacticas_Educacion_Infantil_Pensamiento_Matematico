@@ -1,8 +1,8 @@
 export default {
   global: {
-    numeroUnidad: '2',
+    numeroUnidad: '3',
     tituloUnidad:
-      'Aplicación de estrategias didácticas para desarrollar los pensamientos matemáticos',
+      'Estrategias diversas para el desarrollo de estilos de aprendizaje en educación inicial',
   },
   menuPrincipal: {
     menu: [
@@ -16,15 +16,14 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo:
-          'Estrategias didácticas para el pensamiento numérico en educación infantil',
+        titulo: 'Herramientas en la enseñanza matemática',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
             titulo:
-              'Explorando el mundo con números: bases del pensamiento matemático en la primera infancia',
+              'La importancia de las herramientas en el aprendizaje matemático en la educación inicial',
             hash: 't_1_1',
           },
           {

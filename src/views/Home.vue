@@ -22,7 +22,7 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 La unidad aborda la aplicación de estrategias didácticas para fomentar el pensamiento matemático en educación infantil. Se destacan cinco procesos clave: numérico, métrico, espacial, aleatorio y variacional. Mediante el uso de materiales manipulativos, juego, tecnología y experiencias cotidianas, se promueve un aprendizaje significativo, lúdico y contextualizado. Se enfatiza la evaluación continua y adaptada, el diseño de ambientes enriquecidos y el uso de herramientas tecnológicas como realidad aumentada, robótica y gamificación. La enseñanza busca desarrollar en los niños habilidades lógicas, de razonamiento y resolución de problemas desde una perspectiva creativa e inclusiva.
+              p.descripcion.mb-4 La unidad aborda la importancia de seleccionar herramientas didácticas para estimular el aprendizaje matemático en educación infantil. Se clasifican en manipulativas, digitales y lúdicas, adaptándose a distintos estilos (visual, auditivo, kinestésico). También se analiza su implementación en contextos presenciales, virtuales y a distancia, destacando ventajas y retos. Se promueve la inclusión mediante la combinación estratégica de herramientas, considerando la diversidad de estudiantes. Finalmente, se subraya la necesidad de evaluar y adaptar continuamente estos recursos para asegurar un aprendizaje significativo, motivador y accesible para todos los niños y niñas.
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
