@@ -10,7 +10,7 @@
 
       .col-lg-4
         figure
-          img(src="@/assets/curso/intro/1.png", alt="").mb-4.mb-lg-0
+          img(src="@/assets/curso/intro/1.png", alt="").mb-0
 
       .col-lg-4
         .tarjeta.bg-color-8.p-4(data-aos="fade-left").h-100

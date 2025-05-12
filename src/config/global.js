@@ -29,23 +29,14 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo:
-              'Descubriendo el mundo a través del juego: La clave para el desarrollo del pensamiento numérico en la infancia',
+            titulo: 'Analogías para comprender la función de las herramientas',
             hash: 't_1_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo:
-              'Diseño e implementación de estrategias didácticas para fortalecer el pensamiento numérico',
+            titulo: 'Tipos de herramientas: manipulativas, digitales y lúdicas',
             hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo:
-              'Selección y uso de materiales manipulativos para la enseñanza del pensamiento numérico: regletas, ábacos, bloques lógicos, entre otros.',
-            hash: 't_1_4',
           },
         ],
       },
@@ -54,22 +45,29 @@ export default {
         icono: 'far fa-file-alt',
         numero: '2',
         titulo:
-          'Explorando recursos didácticos para el pensamiento métrico y espacial en la primera infancia',
+          'Adaptación de herramientas para diferentes tipos de aprendizaje',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
             titulo:
-              'Explorando el espacio y la medida: Recursos y ambientes de aprendizaje para el desarrollo del pensamiento métrico y espacial',
+              'Comprender para enseñar: los estilos de aprendizaje en la educación infantil',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
             titulo:
-              'Innovación y tecnología en la enseñanza de las matemáticas en educación infantil',
+              'Seleccionar herramientas según el estilo de aprendizaje: una clave para la enseñanza efectiva',
             hash: 't_2_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.3',
+            titulo:
+              'Estrategias para combinar herramientas y favorecer la inclusión educativa',
+            hash: 't_2_3',
           },
         ],
       },
@@ -111,176 +109,173 @@ export default {
   referencias: [
     {
       referencia:
-        'Goñi, J. M. (2013). Didáctica de las matemáticas: (ed.). Ministerio de Educación y Formación Profesional de España - Editorial GRAÓ, de IRIF, S.L.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/49235',
-    },
-    {
-      referencia:
-        'Castro Puche, R. (2011). Didáctica de las matemáticas: de preescolar a secundaria: (ed.). Ecoe Ediciones.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/69177',
-    },
-    {
-      referencia:
-        'Oyarce, M. F. M., & Fierro, A. A. (2015). Cognición, juego y aprendizaje: una propuesta para el área de la primera infancia. Revista Infancia, Educación y Aprendizaje, 1(1), 162-177.',
-      link: 'https://ieva.uv.cl/index.php/IEYA/article/view/576',
-    },
-    {
-      referencia:
-        "Goercke Torres, S. A. (2023). Material didáctico para desarrollar el ámbito de relaciones lógico-matemáticas en niños de 4 a 5 años en el Centro de Promoción Social P. Carlos Crespi, año 2023 (Bachelor's thesis).",
-      link: 'https://dspace.ups.edu.ec/handle/123456789/26011',
-    },
-    {
-      referencia:
-        'Hidalgo, M. I. M. (2018). Estrategias metodológicas para el desarrollo del pensamiento lógico-matemático. Didasc@ lia: Didáctica y educación, 9(1), 125-132.',
-      link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=6595073',
-    },
-    {
-      referencia:
-        'Muñoz Santoja, J., Fernández-Aliseda Redondo, A. & Hans Martín, J. A. (2020). Jugando con las matemáticas: los juegos como recurso de enseñanza y aprendizaje matemático: (1 ed.). Los libros de la Catarata.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/252976',
-    },
-    {
-      referencia:
-        'Castro Martínez, E. (2016). Enseñanza y aprendizaje de las matemáticas en educación infantil: (ed.). Difusora Larousse - Ediciones Pirámide.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/49142',
-    },
-    {
-      referencia:
-        'González, A. (2016). La enseñanza de la matemática en el jardín de infantes a través de secuencias didácticas: (ed.). Homo Sapiens Ediciones.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/67064',
-    },
-    {
-      referencia:
-        'Campoverde, M. M. P., Aguilar, M. A. A., Quiñonez, N. N. R., & Guanopatín, M. S. L. (2024). Estimulación sensorial para el desarrollo del pensamiento espacial en niños de 3 a 5 años. Sinergia Académica, 7(1), 187-203.',
-      link: 'https://sinergiaacademica.com/index.php/sa/article/view/124',
-    },
-    {
-      referencia:
-        'Caguana Paucar, G. E. (2021). La estimulación visomotriz y el desarrollo de la orientación espacial en niños y niñas de inicial.',
-      link:
-        'https://repositorio.uta.edu.ec/items/c85ed2d3-d0c2-4d73-be00-d166def8af7e',
-    },
-    {
-      referencia:
-        'Cattaneo, L. (2012). Didáctica de la matemática: enseñar matemática, enseñar a enseñar matemática: (ed.). Homo Sapiens Ediciones.',
+        'Cattaneo, L. (2012). Didáctica de la matemática: enseñar matemática, enseñar a enseñar matemática: ( ed.). Homo Sapiens Ediciones.',
       link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/67091',
     },
     {
       referencia:
-        'Castro Puche, R. (2016). Enseñanza de las matemáticas a través de la formulación de problemas: (ed.). Ecoe Ediciones.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/70448',
+        'Castro Martínez, E. (2016). Enseñanza y aprendizaje de las matemáticas en educación infantil: ( ed.). Difusora Larousse - Ediciones Pirámide.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/49142',
     },
     {
       referencia:
-        'Adolfo Ortiz Choez, W. Torres Villegas, I. D. L. A., & Ortiz Aguilar, W. (2019). La enseñanza de la Matemática y su influencia en el desarrollo del pensamiento espacial.',
+        'Novo Martín, M. L. (2021). Matemáticas en el Grado de Educación Infantil: la importancia del juego y los materiales manipulativos.',
+      link: 'https://uvadoc.uva.es/handle/10324/51756',
+    },
+    {
+      referencia:
+        'Alsina, Á., & Bosch i Casas, E. (2025). Del GAMAR a la escuela: Principios sobre el uso de materiales manipulativos en el aula de matemáticas. Números: revista de didáctica de las matemáticas, 2025, vol. 119, p. 73-89.',
+      link: 'https://dugi-doc.udg.edu/handle/10256/26564',
+    },
+    {
+      referencia:
+        'Edo, M., Baeza, M., Deulofeu, J., & Badillo, E. (2008). Estudio del paralelismo entre las fases de resolución de un juego y las fases de resolución de un problema. Union Rev. Iberoam. Educ. Matemática, 14, 61-75.',
+      link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=5913128',
+    },
+    {
+      referencia:
+        'Adolfo Ortiz Choez, W. Torres Villegas, I. D. L. A. & Ortiz Aguilar, W. (2019). La enseñanza de la Matemática y su influencia en el desarrollo del pensamiento: ( ed.). Editorial Académica Universitaria (Edacun).',
       link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/151749',
     },
     {
       referencia:
-        'Mejía, D. N. (2021). Elementos estructurales de los videojuegos potencialmente educativos para el desarrollo de temáticas escolares relacionadas con el pensamiento espacial en niños y niñas entre ocho y diez años.',
-      link: 'https://dialnet.unirioja.es/servlet/td?codigo=333098',
+        'Bravo Benítez, M. (2006). Estrategias educativas en el aula: ( ed.). Ediciones Aljibe.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/60493',
     },
     {
       referencia:
-        'Fernández, L. M. D. (2023). Una Aproximación al Estado del Estudio del Pensamiento Variacional en Primeros Grados de Escolaridad. Educación Matemática Multidisciplinar, 7(6), 33.',
-      link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=9280118',
+        'Jarquín, F. A. (2016). Estilos de aprendizaje: PNL en NovaUniversitas. Perspectivas docentes, (60), 5-14.',
+      link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=6349227',
+    },
+    {
+      referencia:
+        'Navarro Espejo, A. (2016). Los estilos de aprendizaje en primaria: visual, auditivo y kinestésico. Publicaciones didácticas, 75, 21-46.',
+      link: 'https://core.ac.uk/download/pdf/235858896.pdf',
+    },
+    {
+      referencia:
+        'Gallego, D. J., Alonso, C., & Barros, D. M. V. (2022). Estilos de Aprendizaje y Estilos de Enseñanza. Propuestas pedagógicas para la transformación de la educación. Revista de Estilos de Aprendizaje, 15(Especial), 1-4.',
+      link: 'https://revistaestilosdeaprendizaje.com/article/view/5309',
+    },
+    {
+      referencia:
+        'Llera, J. B. (2011). La educación inclusiva. Padres y Maestros/Journal of Parents and Teachers, (338), 5-9.',
+      link:
+        'https://revistas.comillas.edu/index.php/padresymaestros/article/view/431',
+    },
+    {
+      referencia:
+        'Bocanegra Vilcamango, B. (Coord.). (2023). Aprender en el aula: (1 ed.). Editorial Transdigital.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/252915',
+    },
+    {
+      referencia:
+        'Martínez, V. (2017). Educación presencial versus educación a distancia. La cuestión universitaria, (9), 108-116.',
+      link:
+        'https://polired.upm.es/index.php/lacuestionuniversitaria/article/view/3582',
+    },
+    {
+      referencia:
+        'Tintaya, A. E. (2009). Desafíos y fundamentos de educación virtual. El Cid Editor.',
+      link:
+        'https://blogdeeducacionadistancia.wordpress.com/wp-content/uploads/2012/06/datos-fundamentales-de-la-edaluacion-virtual.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'Algoritmo',
+      termino: 'Aprendizaje experiencial',
       significado:
-        'conjunto de pasos ordenados y finitos que se siguen para resolver un problema o realizar una operación matemática.',
+        'Método que permite a los estudiantes construir conocimientos a través de la experimentación y la interacción con su entorno.',
     },
     {
-      termino: 'Clasificación',
+      termino: 'Aprendizaje inclusivo',
       significado:
-        'proceso mediante el cual los niños agrupan objetos según sus características comunes, como color, forma o tamaño.',
+        'Estrategia pedagógica que busca atender la diversidad de los estudiantes, garantizando la participación de todos en el proceso educativo.',
     },
     {
-      termino: 'Correspondencia',
+      termino: 'Aprendizaje kinestésico',
       significado:
-        'relación entre dos conjuntos de elementos en la que cada elemento de un grupo se asocia con uno del otro.',
+        'Estilo de aprendizaje en el que los estudiantes comprenden mejor la información mediante la manipulación, el movimiento y la práctica activa.',
     },
     {
-      termino: 'Conteo',
+      termino: 'Aprendizaje lúdico',
       significado:
-        'habilidad matemática inicial que permite a los niños asignar un número a cada objeto de un conjunto de manera secuencial.',
+        'Enfoque educativo basado en el juego como herramienta para facilitar la enseñanza y el desarrollo de habilidades cognitivas y sociales.',
     },
     {
-      termino: 'Concepto numérico',
+      termino: 'Aprendizaje visual',
       significado:
-        'comprensión de la cantidad representada por un número y su relación con otros números.',
+        'Estilo de aprendizaje en el que la información se asimila mejor a través de imágenes, gráficos, esquemas y otros recursos visuales.',
     },
     {
-      termino: 'Desarrollo del pensamiento lógico',
+      termino: 'Contexto educativo',
       significado:
-        'proceso mediante el cual los niños adquieren habilidades para analizar, razonar y resolver problemas matemáticos.',
+        'Entorno en el que se lleva a cabo el proceso de enseñanza-aprendizaje, que puede ser presencial, virtual o a distancia.',
     },
     {
-      termino: 'Estimación',
+      termino: 'Didáctica',
       significado:
-        'habilidad para hacer cálculos aproximados sobre cantidades, medidas o resultados sin necesidad de contar exactamente.',
+        'Disciplina que estudia los métodos y estrategias para mejorar la enseñanza y optimizar los procesos de aprendizaje.',
     },
     {
-      termino: 'Estrategias didácticas',
+      termino: 'Gamificación',
       significado:
-        'métodos o técnicas utilizadas para facilitar el aprendizaje de los niños en el ámbito matemático.',
+        'Estrategia pedagógica que utiliza elementos del juego, como recompensas y desafíos, para motivar y mejorar el aprendizaje.',
     },
     {
-      termino: 'Figuras geométricas',
+      termino: 'Herramientas digitales',
       significado:
-        'formas con características específicas, como triángulos, cuadrados y círculos, que ayudan a comprender el espacio y las relaciones entre objetos.',
+        'Recursos tecnológicos, como aplicaciones y plataformas interactivas, que facilitan la enseñanza y el aprendizaje en entornos virtuales.',
     },
     {
-      termino: 'Juego simbólico',
+      termino: 'Herramientas manipulativas',
       significado:
-        'actividad lúdica en la que los niños representan situaciones de la vida real, favoreciendo la construcción del pensamiento matemático.',
+        'Materiales concretos, como bloques y ábacos, que permiten a los estudiantes aprender matemáticas mediante la exploración táctil.',
     },
     {
-      termino: 'Material manipulativo',
+      termino: 'Inclusión educativa',
       significado:
-        'recursos físicos como bloques, regletas o fichas que facilitan el aprendizaje de conceptos matemáticos a través de la exploración.',
+        'Principio que garantiza el acceso, la participación y el aprendizaje de todos los estudiantes, sin importar sus características o necesidades particulares.',
     },
     {
-      termino: 'Medición',
+      termino: 'Interacción digital',
       significado:
-        'proceso de determinar la cantidad de una magnitud, como longitud, peso o tiempo, utilizando unidades de medida.',
+        'Comunicación y participación en espacios virtuales a través de herramientas tecnológicas que facilitan el aprendizaje colaborativo.',
     },
     {
-      termino: 'Patrones',
+      termino: 'Metodologías activas',
       significado:
-        'secuencias repetitivas de colores, formas o números que ayudan a los niños a identificar regularidades y establecer relaciones.',
+        'Estrategias de enseñanza que promueven la participación activa del estudiante en la construcción de su conocimiento.',
     },
     {
-      termino: 'Pensamiento variacional',
+      termino: 'Recursos didácticos',
       significado:
-        'habilidad para comprender cómo cambian los objetos o situaciones en función de diferentes variables.',
-    },
-    {
-      termino: 'Procesos espaciales',
-      significado:
-        'habilidades relacionadas con la ubicación y relación de los objetos en el espacio, fundamentales para la geometría.',
-    },
-    {
-      termino: 'Razonamiento matemático',
-      significado:
-        'capacidad para analizar situaciones, establecer relaciones y resolver problemas con base en principios matemáticos.',
+        'Materiales y estrategias utilizados por los docentes para facilitar el aprendizaje y mejorar la comprensión de los contenidos.',
     },
     {
       termino: 'Resolución de problemas',
       significado:
-        'proceso en el que los niños aplican estrategias matemáticas para encontrar soluciones a diversas situaciones.',
+        'Estrategia de enseñanza basada en la identificación, análisis y solución de situaciones problemáticas para desarrollar el pensamiento crítico.',
     },
     {
-      termino: 'Secuenciación',
+      termino: 'Simuladores educativos',
       significado:
-        'ordenación de elementos o eventos siguiendo una lógica numérica, temporal o espacial.',
+        'Herramientas digitales que recrean situaciones reales o hipotéticas para facilitar el aprendizaje a través de la experimentación.',
     },
     {
-      termino: 'Seriación',
+      termino: 'Tecnología educativa',
       significado:
-        'habilidad para organizar objetos en función de un criterio determinado, como tamaño o cantidad.',
+        'Conjunto de herramientas y recursos tecnológicos utilizados para mejorar los procesos de enseñanza y aprendizaje.',
+    },
+    {
+      termino: 'Virtualidad educativa',
+      significado:
+        'Modalidad de enseñanza que utiliza plataformas y recursos digitales para ofrecer experiencias de aprendizaje en línea.',
+    },
+    {
+      termino: 'Visualización matemática',
+      significado:
+        'Estrategia que utiliza representaciones gráficas y modelos visuales para facilitar la comprensión de conceptos matemáticos abstractos.',
     },
   ],
 }
