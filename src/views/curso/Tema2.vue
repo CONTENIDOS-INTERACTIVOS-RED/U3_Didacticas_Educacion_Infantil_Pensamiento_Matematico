@@ -163,10 +163,10 @@
         .my-auto.px-4.px-xl-0
           p.pe-xl-3.mb-0 Seleccionar herramientas didácticas según el estilo de aprendizaje no es solo una estrategia pedagógica eficaz, sino un acto de <b>inclusión y equidad</b>. Al diseñar propuestas que integren lo visual, auditivo, kinestésico y lecto-escrito, se atiende la diversidad del aula, se fortalece la motivación y se garantiza que cada niño y niña tenga acceso a una educación <b>significativa, cercana y enriquecedora.</b>
 
+
+
       #t_2_3.titulo-segundo(data-aos="flip-up")
-        div.d-flex
-          span.me-3 2.3
-          h2 Estrategias para combinar herramientas y favorecer la inclusión educativa
+        h2 #[span 2.3] Estrategias para combinar herramientas y favorecer la inclusión educativa
 
       .row.mb-4
         .col-12.col-xl-8

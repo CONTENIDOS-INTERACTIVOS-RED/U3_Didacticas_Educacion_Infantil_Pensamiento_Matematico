@@ -87,10 +87,10 @@
             p.pe-xl-3.mb-2.text-bold Software educativo
             span Apps con rompecabezas o lógica matemática estimulan el pensamiento crítico y la resolución de problemas.
 
+
+
     #t_1_2.titulo-segundo(data-aos="flip-up")
-      div.d-flex
-        span.me-3 1.2
-        h2 Analogías para comprender la función de las herramientas
+      h2 #[span 1.2] Analogías para comprender la función de las herramientas
 
     p.mb-4 Para facilitar la comprensión de su importancia, se pueden usar comparaciones que conecten con la vida cotidiana:
 
@@ -130,10 +130,10 @@
       .col-xl-4.d-none.d-xl-block
         img(src='@/assets/curso/unidad/img-12.png', alt='Texto que describa la imagen')
 
+
     #t_1_3.titulo-segundo(data-aos="flip-up")
-      div.d-flex
-        span.me-3 1.3
-        h2 Tipos de herramientas: manipulativas, digitales y lúdicas
+      h2 #[span 1.3] Tipos de herramientas: manipulativas, digitales y lúdicas
+    
 
     .row.mb-4
       .col-4.d-none.d-xl-block
