@@ -19,11 +19,10 @@
             .my-auto
               p.pe-xl-3.mb-0 Se invita a explorar la importancia de elegir y modificar herramientas didácticas para que cada estudiante pueda aprender de la manera que le resulte más natural. Al comprender cómo se procesa la información según los estilos de aprendizaje, se podrá transformar la enseñanza en una experiencia más accesible, dinámica y enriquecedora. ¡Es momento de descubrir cómo hacer del aprendizaje un camino que todos puedan recorrer con éxito!
       
-      #t_2_1.titulo-segundo(data-aos="flip-up")
-        div.d-flex
-          span.me-3 2.1
-          h2 Comprender para enseñar: los estilos de aprendizaje en la educación infantil
 
+      #t_2_1.titulo-segundo(data-aos="flip-up")
+        h2 #[span 2.1] Comprender para enseñar: los estilos de aprendizaje en la educación infantil
+      
       .row.mb-4
         .col-12.col-xl-8
           p.mb-4 ¿Por qué algunas personas recuerdan mejor una explicación cuando la leen, mientras que otras necesitan escucharla o experimentarla con sus propias manos? Esta pregunta nos introduce en una de las claves esenciales de la educación inicial: la existencia de <b>diferentes estilos de aprendizaje.</b>
@@ -86,11 +85,10 @@
         .my-auto.px-4.px-xl-0
           p.pe-xl-3.mb-0.text-white Al comprender cómo aprende cada niño y niña, se abren nuevas puertas para diseñar propuestas pedagógicas <b>significativas, equitativas y personalizadas</b>. Integrar los distintos estilos de aprendizaje no solo favorece la adquisición de contenidos, sino que garantiza el acceso a <b>experiencias educativas inclusivas, motivadoras y transformadoras.</b>
       
-      #t_2_2.titulo-segundo(data-aos="flip-up")
-        div.d-flex
-          span.me-3 2.2
-          h2 Seleccionar herramientas según el estilo de aprendizaje: una clave para la enseñanza efectiva
 
+      #t_2_2.titulo-segundo(data-aos="flip-up")
+        h2 #[span 2.2] Seleccionar herramientas según el estilo de aprendizaje: una clave para la enseñanza efectiva
+      
       .row.mb-4
         .col-10.col-lg-6.col-xl-4.mx-auto.bg-amarillo.p-4.d-flex(data-aos='fade-up')
           span En la educación infantil, es común observar que algunos niños y niñas aprenden mejor al ver <i>imágenes y gráficos</i>, mientras que otros requieren escuchar explicaciones detalladas o manipular objetos para comprender un concepto. Esta diversidad responde a los <b>diferentes estilos de aprendizaje</b>, que influyen directamente en cómo cada estudiante procesa, retiene y aplica el conocimiento. 
@@ -111,7 +109,7 @@
               TarjetaAudio.color-secundario.bg-white.mb-3(
                 texto='Juego simbólico'
                 tiempo
-                :audio="require('../../assets/componentes/audios/Juego_simbolico_mezcla.mp3')"
+                :audio="require('../../assets/curso/podcast/podcast1.mp3')"
                 @audio-hover='mostrarIndicadorTarjetaAudio = false'
               )
             .col-xl-6.d-none.d-xl-block(data-aos="zoom-in")
