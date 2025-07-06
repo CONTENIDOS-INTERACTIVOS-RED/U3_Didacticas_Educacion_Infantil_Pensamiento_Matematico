@@ -2,7 +2,7 @@ export default {
   global: {
     numeroUnidad: '3',
     tituloUnidad:
-      'Estrategias diversas para el desarrollo de estilos de aprendizaje en educación inicial',
+      'Herramientas didácticas para estimular los estilos de aprendizaje en la educación inicial: estrategias presenciales, virtuales y remotas',
   },
   menuPrincipal: {
     menu: [

@@ -95,7 +95,7 @@
         .col-4.d-none.d-xl-block
           img(src='@/assets/curso/unidad/img-39.png', alt='Texto que describa la imagen')
         .col-10.col-lg-6.col-xl-4.mx-auto.bg-azul.p-4.d-flex(data-aos='fade-up')
-          span Para que la enseñanza sea verdaderamente efectiva, es esencial que el docente <b>sepa cconozca estos estilos y seleccione herramientas didácticas adecuadas</b> para cada uno. De esta forma, se favorece el desarrollo integral de los niños y niñas y se generan experiencias significativas, inclusivas y personalizadas.
+          span Para que la enseñanza sea verdaderamente efectiva, es esencial que el docente <b>conozca estos estilos y seleccione herramientas didácticas adecuadas</b> para cada uno. De esta forma, se favorece el desarrollo integral de los niños y niñas y se generan experiencias significativas, inclusivas y personalizadas.
 
       h2 Estilos de aprendizaje y herramientas recomendadas
 
@@ -351,7 +351,7 @@
         div.px-5.pb-md-3.py-4.d-flex
           .col-12.col-xl-7.d-flex.pe-4.pe-xl-5.align-items-center.flex-column
             h2.mb-4.pb-2.me-auto Explorando el uso de herramientas en diferentes contextos educativos
-            p.mb-5(data-aos="fade-up") Se invita a leer el documento Explorando el uso de herramientas en diferentes contextos educativos , donde se aborda cómo las características del entorno —presencial, virtual o a distancia— influyen en la selección y efectividad de las herramientas didácticas. 
+            p.mb-5(data-aos="fade-up") Se invita a leer el documento Explorando el uso de herramientas en diferentes contextos educativos, donde se aborda cómo las características del entorno —presencial, virtual o a distancia— influyen en la selección y efectividad de las herramientas didácticas. 
             a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="fade-up" :href="obtenerLink('/downloads/Anexos_Explorando_el_uso_de_herramientas.pdf')" target="_blank")
               img.h-100(style="width: 48px" src='@/assets/componentes/pdf-icon-square.svg', alt='Texto que describa la imagen')
               p.text-small.fs-14px.my-auto.px-2 <strong>Anexo.</strong> Explorando el uso de herramientas en diferentes contextos educativos

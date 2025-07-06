@@ -3,7 +3,6 @@
   BannerInterno(:subTitulo="'1. Herramientas en la enseñanza matemática'")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
 
-    p Desde los primeros años de vida, los niños y niñas construyen nociones matemáticas mediante la exploración, el juego y la interacción con su entorno. La educación infantil tiene la responsabilidad de potenciar este desarrollo a través de experiencias significativas que despierten la curiosidad y fomenten el razonamiento lógico.
 
     .row.mb-4
       .col-lg-4
@@ -273,7 +272,7 @@
       div.px-5.pb-md-3.py-4.d-flex
         .col-12.col-xl-7.d-flex.pe-4.pe-xl-5.align-items-center.flex-column
           h2.mb-4.pb-2.me-auto La aplicación de herramientas en la resolución de problemas matemáticos
-          p.mb-5(data-aos="fade-up") Se invita a leer el documento La aplicación de herramientas en la resolución de problemas matemáticos , donde se aborda cómo diferentes tipos de herramientas —manipulativas, lúdicas, tecnológicas y visuales— pueden facilitar el desarrollo del pensamiento lógico y la comprensión de conceptos matemáticos desde la educación inicial.
+          p.mb-5(data-aos="fade-up") Se invita a leer el documento La aplicación de herramientas en la resolución de problemas matemáticos, donde se aborda cómo diferentes tipos de herramientas —manipulativas, lúdicas, tecnológicas y visuales— pueden facilitar el desarrollo del pensamiento lógico y la comprensión de conceptos matemáticos desde la educación inicial.
           a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="fade-up" :href="obtenerLink('/downloads/Anexos_La aplicación_de_herramientas.pdf')" target="_blank")
             img.h-100(style="width: 48px" src='@/assets/componentes/pdf-icon-square.svg', alt='Texto que describa la imagen')
             p.text-small.fs-14px.my-auto.px-2 <strong>Anexo.</strong> La aplicación de herramientas en la resolución de problemas matemáticos
